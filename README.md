@@ -68,3 +68,16 @@ contains all package info, node modules used, version info etc };
 
 *server.js -
 Requires packages, sets up PORT, creates express and middleware, creates routes and syncs database / logs message in terminal on successful connection to server };
+
+
+#MAKING CHNAGES:
+Update the form found on the signup.html page. input data and save the new information.
+
+Link to Google Docs:
+https://docs.google.com/document/d/12a5_wlcNDcXerTtOI0zUcjpln_6e5SF1gz6hSXE7zbo/edit?usp=sharing
+
+Link to Github:
+https://github.com/jinxdoll/How-to-tutorial_reverse-engineering-code.git
+
+Link to deployed app via Github:
+https://jinxdoll.github.io/How-to-tutorial_reverse-engineering-code/
